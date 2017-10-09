@@ -57,7 +57,8 @@
   top: 35%;
   left: 50%;
   margin-right: -50%;
-  transform: translate(-50%, -50%)
+  transform: translate(-50%, -50%);
+  word-spacing: 15px;
 }
 
 #title2 {
